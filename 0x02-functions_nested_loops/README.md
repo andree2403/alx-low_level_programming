@@ -1,1 +1,1 @@
-a function that prints the alphabet
+10 x alphabet
