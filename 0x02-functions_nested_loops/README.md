@@ -1,1 +1,1 @@
-10 x alphabet
+lower case
