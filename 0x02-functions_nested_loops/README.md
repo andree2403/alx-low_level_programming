@@ -1,1 +1,1 @@
-last
+hours
