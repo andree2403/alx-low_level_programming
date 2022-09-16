@@ -1,1 +1,1 @@
-more
+print
