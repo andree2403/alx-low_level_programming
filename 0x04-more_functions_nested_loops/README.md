@@ -1,1 +1,1 @@
-digits
+multiplication
