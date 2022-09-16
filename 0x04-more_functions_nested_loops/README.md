@@ -1,1 +1,1 @@
-square
+fizzbuzz
