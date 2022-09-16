@@ -29,9 +29,10 @@ int main(void)
 			}
 			else
 			{
-				printf("Buzz ");
+				printf("%d ", num);
 			}
 		}
 	}
+	printf("\n");
 	return (0);
 }
