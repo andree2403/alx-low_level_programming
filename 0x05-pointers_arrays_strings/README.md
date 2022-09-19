@@ -1,1 +1,1 @@
-print
+puts2
