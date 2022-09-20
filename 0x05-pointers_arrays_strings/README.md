@@ -1,1 +1,1 @@
-putshalf
+revstring
