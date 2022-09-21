@@ -1,1 +1,1 @@
-strcat
+strcat pointer
