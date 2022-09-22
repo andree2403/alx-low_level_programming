@@ -11,12 +11,12 @@
 char *cap_string(char *s)
 {
 	int i, j, delt = 'a' - 'A';
-	char seperators[13] = {'\n', '\t', ' ', '.', ',', ';', '"', '!', '?',
+	char seperators[13] = {'\n', '\t', ' ', '.', ',', ';', ',', '!', '?',
 	'(', ')', '{', '}'};
 
 	for (i = 0; s[i] != '\0'; i++)
 	{
-		for (j = 0; j < 13; j++)
+		for (j = 0; j < 13 ; j++)
 		{
 			if (s[i] == seperators[j])
 			{
