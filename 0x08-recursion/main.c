@@ -8,6 +8,6 @@
 
 int main(void)
 {
-	int _strlen_recursion(char *s);
+	int factorial(int n);
 	return (0);
 }
