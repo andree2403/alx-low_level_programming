@@ -8,6 +8,6 @@
 
 int main(void)
 {
-	int _pow_recursion(int x, int y);
+	int _sqrt_recursion(int n);
 	return (0);
 }
