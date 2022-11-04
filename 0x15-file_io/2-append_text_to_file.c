@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 #include <string.h>
 /**
  * append_text_to_file - appends to file
