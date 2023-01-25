@@ -1,10 +1,7 @@
-#include <stdlib.h>
-#include <string.h>
-#include <stdio.h>
 #include "lists.h"
 
 /**
- * print_dlistint - prints all the elements of a dlistint_t list.\
+ * print_dlistint - prints all the elements of a dlistint_t list.
  * @h: header
  * Return: returns the number of nodes
  */
